@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: ReadMeUp
 emoji: 📊
@@ -9,3 +10,7 @@ license: mit
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+=======
+# ReadMeUp---The-Book-Recommendation-System
+End-to-end book recommendation system with three levels of personalization: filtering, KNN similarity, and semantic search (FAISS).
+>>>>>>> a034ead (Initial commit)
