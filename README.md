@@ -97,6 +97,7 @@ Optimized for users seeking **highly personalized and semantically rich recommen
 ## 🚀 Deployment
 
 The application is deployed on **Hugging Face Spaces** and can be accessed via a public link.
+https://ngb91-readmeup.hf.space/
 
 It runs as a Flask-based web application listening on port **7860**, following Hugging Face deployment requirements.
 
